@@ -1,7 +1,7 @@
 local Clients = {
-    "7morphh" == true,
-    "qhouz" == true,
-    "Debug" == true
+    "7morphh",
+    "qhouz",
+    "Debug"
 }
 
 return Clients
