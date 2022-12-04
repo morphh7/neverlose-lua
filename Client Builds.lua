@@ -11,4 +11,4 @@ local function tablelength(T)
     return count
 end
 
-return tonumber(nigga.tablelength(Clients))
+return tonumber(tablelength(Clients))
