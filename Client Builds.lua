@@ -4,4 +4,8 @@ local Clients = {
     "Debug"
 }
 
-return Clients
+local function Main()
+    return Clients
+end
+
+return Main()
