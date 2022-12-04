@@ -20,4 +20,6 @@ local function tablelength(T)
     return count
 end
 
-return tablelength(Clients)
+local b_count = tablelength(Clients)
+
+return b_count
