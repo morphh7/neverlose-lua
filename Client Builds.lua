@@ -3,3 +3,5 @@ local Clients = {
     "qhouz",
     "Debug"
 }
+
+return Clients
