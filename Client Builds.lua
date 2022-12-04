@@ -20,7 +20,4 @@ local function tablelength(T)
     return count
 end
 
-return ({
-    valid = sendtrue()
-    Build = tablelength(Clients)
-})
+return tablelength(Clients)
