@@ -12,3 +12,4 @@ local table = {
         return count
     end)()
 }
+return table
