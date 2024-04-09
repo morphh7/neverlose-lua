@@ -1,0 +1,98 @@
+[
+  {
+    "address": {
+      "ip": "62.122.215.105",
+      "port": "6666"
+    },
+    "data": {
+      "average_traffic": "12 ~ 20 players",
+      "exploit_fix": "Roll Fix",
+      "map": "MIRAGE",
+      "mode": "HVH",
+      "money": "N/A",
+      "region": "RU/EU",
+      "weapons": "ONLY SCOUT"
+    },
+    "name": "eXpidors.Ru   \u0007{Link Active}[1]"
+  },
+  {
+    "address": {
+      "ip": "46.174.51.137",
+      "port": "7777"
+    },
+    "data": {
+      "average_traffic": "9 ~ 16 players",
+      "exploit_fix": "Roll Fix",
+      "map": "MIRAGE",
+      "mode": "MM HVH",
+      "money": "N/A",
+      "region": "RU/EU",
+      "weapons": "ANY"
+    },
+    "name": "eXpidors.Ru   \u0007{Link Active}[2]"
+  },
+  {
+    "address": {
+      "ip": "46.174.51.108",
+      "port": "27015"
+    },
+    "data": {
+      "average_traffic": "7 ~ 18 players",
+      "exploit_fix": "N/A",
+      "map": "N/A",
+      "mode": "DEATHMATCH",
+      "money": "N/A",
+      "region": "RU/EU",
+      "weapons": "ANY"
+    },
+    "name": "[SharkProject.ru] DM HVH"
+  },
+  {
+    "address": {
+      "ip": "188.212.101.13",
+      "port": "27015"
+    },
+    "data": {
+      "average_traffic": "5 ~ 11 players",
+      "exploit_fix": "N/A",
+      "map": "Mirage Only",
+      "mode": "HVH",
+      "money": "N/A",
+      "region": "RO/EU",
+      "weapons": "ANY"
+    },
+    "name": "(RO/EN)[NeonHvH]"
+  },
+  {
+    "address": {
+      "ip": "46.174.52.172",
+      "port": "1488"
+    },
+    "data": {
+      "average_traffic": "4 ~ 14 players",
+      "exploit_fix": "N/A",
+      "map": "N/A",
+      "mode": "HVH",
+      "money": "N/A",
+      "region": "RU/EU",
+      "weapons": "ANY"
+    },
+    "name": "sippin' on wok mm hvh"
+  },
+  {
+    "address": {
+      "ip": "194.93.2.41",
+      "port": "27015"
+    },
+    "data": {
+      "average_traffic": "4 ~ 12 players",
+      "exploit_fix": "N/A",
+      "map": "N/A",
+      "mode": "HVH",
+      "money": "N/A",
+      "region": "RU/EU",
+      "weapons": "1 AWP / ANY"
+    },
+    "name": "EVOLUTION TAPS"
+  }
+]
