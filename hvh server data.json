@@ -127,11 +127,11 @@
     },
     "name": "[PL/UA/EU] HackHaven HvH"
   },
-    {
+  {
     "address": {
       "ip": "46.174.52.69",
       "port": "27015"
-    },
+  },
     "data": {
       "average_traffic": "10 ~ 25 players",
       "exploit_fix": "N/A",
