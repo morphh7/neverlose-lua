@@ -78,7 +78,7 @@
       "weapons": "1 AWP / ANY"
     },
     "name": "EVOLUTION TAPS"
-  }
+  },
   {
     "address": {
       "ip": "45.13.151.154",
@@ -94,7 +94,7 @@
       "weapons": "N/A"
     },
     "name": "[RO/EN] ★ AlyxHvH ❄ WINTER | MM HvH | Bacau - Romania"
-  }
+  },
   {
     "address": {
       "ip": "194.93.2.30",
@@ -110,7 +110,7 @@
       "weapons": "N/A"
     },
     "name": "[Ru] War3ft Project | HvH | Only Mirage |"
-  }
+  },
   {
     "address": {
       "ip": "57.128.220.222",
@@ -126,7 +126,7 @@
       "weapons": "N/A"
     },
     "name": "[PL/UA/EU] HackHaven HvH"
-  }
+  },
     {
     "address": {
       "ip": "46.174.52.69",
@@ -142,12 +142,12 @@
       "weapons": "ANY"
     },
     "name": "[SharkProject.ru] 1x1 ARENA HVH"
-  }
-    {
+  },
+  {
     "address": {
       "ip": "74.91.113.70",
       "port": "27015"
-    },
+  },
     "data": {
       "average_traffic": "2 ~ 7 players",
       "exploit_fix": "N/A",
@@ -156,7 +156,7 @@
       "money": "16k",
       "region": "NA",
       "weapons": "N/A"
-    },
+  },
     "name": "[NA] Infinity HvH | $16k"
   }
 ]
